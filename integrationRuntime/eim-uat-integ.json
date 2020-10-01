@@ -1,0 +1,6 @@
+{
+	"name": "eim-uat-integ",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
